@@ -6,6 +6,10 @@ JSP 게시판을 따.라.서 만들었습니다.
 https://www.youtube.com/watch?v=wEIBDHfoMBg&list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6&index=1 
 강의입니다.
 
+에디터 : 이클립스
+OS : mac
+DB : mysql
+언어 : HTML, CSS, Java
 
 # Screen Shots
 
