@@ -41,4 +41,24 @@ public class User {
 	}
 	
 }
+/*	
+package user;		// lombok으로 인한 간결한 코드 
+
+
+import lombok.Getter;
+import lombok.Setter;
+
+
+@Getter 
+@Setter
+public class User {
+	private String userID;
+	private String userPassword;
+	private String userName;
+	private String userGender;
+	private String userEmail;
+
+}
+
+*/
 
