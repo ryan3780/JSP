@@ -47,3 +47,23 @@ public class Bbs {
 	}
 
 }
+/*			//lombok을 사용하면 코드를 예쁘게 할 수 있다. lombok.Data;로 하고 어노테이션을 @Data 해도 
+package bbs;
+
+import lombok.Getter;
+import lombok.Setter;
+
+
+@Getter 
+@Setter
+public class Bbs {
+	
+	private int bbsID;
+	private String bbsTitle;
+	private String userID;
+	private String bbsDate;
+	private String bbsContent;
+	private int bbsAvailable;
+}
+
+*/
