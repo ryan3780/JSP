@@ -5,7 +5,7 @@ package user;
 // get,set 메소드 만들 필요 없음
 public class User {
 
-	private String userID; // 왠만하면 카멜기법이 되도록 userId 가 되는게 좋습니다.
+	private String userId; // 왠만하면 카멜기법이 되도록 userId 가 되는게 좋습니다.
 	private String userPassword;
 	private String userName;
 	private String userGender;
